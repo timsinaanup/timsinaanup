@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **AI / ML**
 
+- 👨‍💻 Want to know more about me [https://timsinaanup.github.io/portfolio/](https://timsinaanup.github.io/portfolio/)
+
 - 📫 How to reach me **code.anup23@gmail.com**
 
-- ⚡ Fun fact **You know if you know me**
+- ⚡ Fun fact **I am successful at procrastinating...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
