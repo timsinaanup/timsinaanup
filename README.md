@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Timsina</h1>
-<h3 align="center">from 🇳🇵</h3>
+<h3 align="center">AI ML practitioner from 🇳🇵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timsinaanup&label=Profile%20views&color=0e75b6&style=flat" alt="timsinaanup" /> </p>
 
